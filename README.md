@@ -60,11 +60,11 @@ java -jar gogui-twogtp.jar [options]
 Example of running gogui-twogtp.jar with options:
 
 
- #!/bin/bash
+\#!/bin/bash
 
 #########################################################
 
- # I run java from the jdk
+\# I run java from the jdk
 
 #########################################################
 
@@ -74,7 +74,7 @@ export PATH
 
 #########################################################
 
- # example of how to get help with gogui-twogtp
+\# example of how to get help with gogui-twogtp
 
 #########################################################
 
