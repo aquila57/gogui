@@ -78,47 +78,47 @@ export PATH
 
 #########################################################
 
- # java -jar gogui-twogtp.jar -help
+\# java -jar gogui-twogtp.jar -help
 
- # exit 0
+\# exit 0
 
 #########################################################
 
- # Explanation of options:
+\# Explanation of options:
 
- # -auto runs the program automatically
+\# -auto runs the program automatically
 
- # -games 1 runs the program for only one game
+\# -games 1 runs the program for only one game
 
- # -sgffile prefix for the SGF output file
+\# -sgffile prefix for the SGF output file
 
- # -komi 7.5 means default to 7.5 komi.
+\# -komi 7.5 means default to 7.5 komi.
 
- # -size 19 means play on 19x19 board
+\# -size 19 means play on 19x19 board
 
- # -threads 1 means use one thread per engine
+\# -threads 1 means use one thread per engine
 
- # -verbose means print verbose output
+\# -verbose means print verbose output
 
- # -black "Go engine program and options for black"
+\# -black "Go engine program and options for black"
 
- # -white "Go engine program and options for white"
+\# -white "Go engine program and options for white"
 
- # The Go program and options for each Go engine must be
+\# The Go program and options for each Go engine must be
 
- # enclosed in double quotes.
+\# enclosed in double quotes.
 
- # Go options I use for each engine of Leela Zero:
+\# Go options I use for each engine of Leela Zero:
 
- # -g means use the GTP protocol
+\# -g means use the GTP protocol
 
- # -r 1 means resign at 1% probability of winning, or less
+\# -r 1 means resign at 1% probability of winning, or less
 
- # -t 1 means use only one thread
+\# -t 1 means use only one thread
 
- # -l log path with log name
+\# -l log path with log name
 
- # -w weights path with weights name (in gzip format)
+\# -w weights path with weights name (in gzip format)
 
 #########################################################
 
